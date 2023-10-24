@@ -44,6 +44,8 @@ RS_DATABASE = {
 
     'autel robotics xt705': 30, # Autel EVO II pro
 
+    'autel robotics xl705': 33, # Autel Evo II V3 6k
+
     # Help us add more! 
     # See: https://github.com/OpenDroneMap/RSCalibration for instructions
 }
